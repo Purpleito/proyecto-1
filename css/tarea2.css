@@ -1,7 +1,25 @@
-
-
+/*Parrafos*/
+p {
+    font-family: Tahoma;
+}
+/*Primer encabezado*/
 h1 {
     font-family: Tahoma;
-    
     color:red;
 }
+/*Segundo encabezado*/
+h2 {
+    font-family: Tahoma;
+    color:red;
+}
+
+/*Tercer encabezado*/
+h3 {
+    font-family: Tahoma;
+}
+
+/*Cuarto encabezado*/
+h4{
+    font-family: Tahoma;
+}
+
